@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Python repos\Python_project-1.0\.libs
+set VIRTUAL_ENV=D:\homework\Python\Python_project-1.0\.libs
 
 if not defined PROMPT set PROMPT=$P$G
 

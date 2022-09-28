@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\YandexDisk-a.wlas-off\GB\Python\Python_project-1.0\.libs"
+VIRTUAL_ENV="D:\homework\Python\Python_project-1.0\.libs"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
